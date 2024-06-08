@@ -1,7 +1,7 @@
 #
-# CS252 - Shell Project
+# Shell Project
 #
-#Use GNU compiler
+# Use GNU compiler
 cc= gcc
 CC= g++
 ccFLAGS= -g -std=c11

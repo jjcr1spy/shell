@@ -1,5 +1,4 @@
 /*
- * CS-252 
  * shell.l: lexical analyzer for shell
  */
 %x s
